@@ -1,5 +1,7 @@
 # EX01 Developing a Simple Webserver
-## Date:
+#Name: Kamalesh S.R
+#Register number:26009583
+## Date: 20/11/2026
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
